@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Semana de Ciência e Tecnologia - IFAL</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Semana de Ciência e Tecnologia</h1>
+            <p>IFAL - Instituto Federal de Alagoas</p>
+        </div>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#sobre">Sobre</a></li>
+            <li><a href="#programacao">Programação</a></li>
+            <li><a href="#orientadores">Orientadores</a></li>
+            <li><a href="#contato">Contato</a></li>
+        </ul>
+    </nav>
+
+    <section id="sobre">
+        <div class="container">
+            <h2>Sobre o Evento</h2>
+            <p>A Semana de Ciência e Tecnologia do IFAL é um evento dedicado a promover o conhecimento científico e tecnológico por meio de palestras, workshops e exposições.</p>
+        </div>
+    </section>
+
+    <section id="programacao">
+        <div class="container">
+            <h2>Programação</h2>
+            <ul>
+                <li>Dia 1: Abertura e Palestras Iniciais</li>
+                <li>Dia 2: Workshops e Apresentações de Projetos</li>
+                <li>Dia 3: Encerramento e Entrega de Certificados</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="Orientadores">
+        <div class="container">
+            <h2>Orientadores</h2>
+            <ul>
+                <li>Prof. Eduardo da Silva - Geografia </li>
+                <li>Prof. Raysa - Matemática </li>
+                <li>Prof. Fernando Antonio - Banco de Dados</li>
+            </ul>
+        </div>
+    </section>
+
+    <footer id="contatos">
+        <div class="container">
+            <h2>Contatos</h2>
+            <p>Email: dll1@aluno.ifal.edu.br | Telefone: (82) 99956-2736</p>
+            <p>Email: ssf13@aluno.ifal.edu.br | Telefone: (82)  9620-7774</p>
+        </div>
+    </footer>
+</body>
+</html>
